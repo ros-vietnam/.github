@@ -2,8 +2,7 @@
 
 **ROS Vietnam** is an **independent, community-driven, non-profit initiative** focused on building the **robotics and autonomous systems ecosystem in Vietnam**.
 
-ROS and ROS 2 are a critical foundation of our work —  
-but **robotics is the bigger picture**.
+ROS and ROS 2 are a critical foundation of our work - but **robotics is the bigger picture**.
 
 ---
 
